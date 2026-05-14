@@ -1,0 +1,8 @@
+/Users/gexto/Documents/workspace-spring-tools-for-eclipse-5.1.1.RELEASE/bankapp/src/main/java/com/bankapp/Application.java
+/Users/gexto/Documents/workspace-spring-tools-for-eclipse-5.1.1.RELEASE/bankapp/src/main/java/com/bankapp/controllers/AccountController.java
+/Users/gexto/Documents/workspace-spring-tools-for-eclipse-5.1.1.RELEASE/bankapp/src/main/java/com/bankapp/controllers/CustomerController.java
+/Users/gexto/Documents/workspace-spring-tools-for-eclipse-5.1.1.RELEASE/bankapp/src/main/java/com/bankapp/models/AccountModel.java
+/Users/gexto/Documents/workspace-spring-tools-for-eclipse-5.1.1.RELEASE/bankapp/src/main/java/com/bankapp/models/AccountType.java
+/Users/gexto/Documents/workspace-spring-tools-for-eclipse-5.1.1.RELEASE/bankapp/src/main/java/com/bankapp/models/CustomerModel.java
+/Users/gexto/Documents/workspace-spring-tools-for-eclipse-5.1.1.RELEASE/bankapp/src/main/java/com/bankapp/repo/CustomerRepository.java
+/Users/gexto/Documents/workspace-spring-tools-for-eclipse-5.1.1.RELEASE/bankapp/src/main/java/com/bankapp/services/CustomerService.java
